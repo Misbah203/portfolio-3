@@ -9,7 +9,7 @@ const Contact = () => {
     <div className='space-y-8'>
      <h2 className='text-5xl'data-aos="zoom-in-up">Contact Me</h2>
      <p className='text-gray-600 text-[18px] pt-2'data-aos="zoom-in-up">
-        I'm currently available for freelance projects. If you have a project that you want to get started, think you need my help with something or just fancy saying hey, then get in touch.
+        I am currently available for freelance projects. If you have a project that you want to get started, think you need my help with something or just fancy saying hey, then get in touch.
      </p>
      <div className='flex gap-3 items-center'data-aos="zoom-in-up">
      <MdOutlineMail size={30} /> abc@gmail.com
